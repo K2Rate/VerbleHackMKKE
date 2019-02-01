@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\cheater\desktop\verblehackmkke\verblehackmkke\main.cpp(31): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(549): note:  см. объявление "stricmp"
+  Создание кода
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  VerbleHackMKKE.vcxproj -> C:\Users\cheater\Desktop\VerbleHackMKKE\Release\VerbleHackMKKE.exe
